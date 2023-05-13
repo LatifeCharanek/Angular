@@ -1,0 +1,29 @@
+{
+  "cliente": [
+    {
+      "id": 1,
+      "name": "Joao",
+      "cpf": "021458796"
+    },
+    {
+      "id": 2
+    }
+  ],
+  "produto": [
+    {
+      "nome": "feijao",
+      "codigo": 7,
+      "tipo": "comida",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+      }
+  ]
+}
