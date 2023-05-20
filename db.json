@@ -2,11 +2,18 @@
   "cliente": [
     {
       "id": 1,
-      "name": "Joao",
+      "nome": "Layla",
       "cpf": "021458796"
     },
     {
-      "id": 2
+      "id": 2,
+      "nome": "Maria",
+      "cpf": "021458796"
+    },
+    {
+      "id": 4,
+      "nome": "mario",
+      "cpf": "5415124"
     }
   ],
   "produto": [
@@ -15,15 +22,6 @@
       "codigo": 7,
       "tipo": "comida",
       "id": 1
-    },
-    {
-      "id": 2
-    },
-    {
-      "id": 3
-    },
-    {
-      "id": 4
-      }
+    }
   ]
 }
